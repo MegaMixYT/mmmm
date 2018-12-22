@@ -1,1 +1,1 @@
-worker: MusicBot.js
+web: MusicBot.js
